@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 01 Oct 2021 17:42:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Струкрура ОрВД]]></title>
+            <guid>fa509f2ef48e4ac1a1bc677c37e7047f</guid>
+            <pubDate>Fri, 16 Jul 2021 09:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="функции">Функции</h1>
+<dl>
+<dt>ОрВД = ATM</dt>
+<dd>
+<p>Организация воздушного движения = Air Traffic Management
+<a title="https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" href="https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F">Wikipedia - ОрВД</a></p>
+
+				<div>
+					
+					<pre class="mermaid">graph TB
+  ОрВД --&gt; ОВД
+        ОВД --&gt; УВД
+        ОВД --&gt; ПИО
+     ОВД --&gt; АО
+    ОрВД --&gt; ОПВД
+    ОрВД --&gt; ОВП
+</pre>
+				</div>
+			</dd>
+<dt>ОВД = ATS</dt>
+<dd>
+<p>Обслуживание воздушного движения = Air Traffic Service</p>
+</dd>
+<dt>УВД = ATC</dt>
+<dd>
+<p>Управление воздушным движением = Air Traffic Control</p>
+</dd>
+<dt>ПИО = FIS</dt>
+<dd>
+<p>Полетно-информационное обслуживание = Flight Information Services</p>
+</dd>
+<dt>АО = AS</dt>
+<dd>
+<p>Аварийное оповещение = Alerting Service</p>
+</dd>
+<dt>ОПВД = ATFM</dt>
+<dd>
+<p>Организация потоков воздушного движения = Air Traffic Flow Management</p>
+</dd>
+<dt>ОВП</dt>
+<dd>
+<p>Организация воздушного пространства = Airspace Management for ATS and ATFM</p>
+</dd>
+<dt>ATIS = АТИС</dt>
+<dd>
+<p>Automatic Terminal Information Service = Служба автоматической передачи информации в районе аэродрома (<a title="https://ru.wikipedia.org/wiki/%D0%90%D0%A2%D0%98%D0%A1" href="https://ru.wikipedia.org/wiki/%D0%90%D0%A2%D0%98%D0%A1">https://ru.wikipedia.org/wiki/АТИС</a>)</p>
+</dd>
+</dl>
+<h1 id="органы">Органы</h1>
+<dl>
+<dt>ГО ПВД</dt>
+<dd>Группа обеспечения планирования воздушного движения (аэродрома)</dd>
+<dt>ДП</dt>
+<dd>Диспетчерский пункт</dd>
+<dt>МДП</dt>
+<dd>Местный диспетчерский пункт</dd>
+</dl>
+<h1 id="структура-ес-орвд-рф">Структура ЕС ОрВД РФ</h1>
+<p><a title="https://gkovd.ru/joint-atm-system/atc-centres-structure/" href="https://gkovd.ru/joint-atm-system/atc-centres-structure/">https://gkovd.ru/joint-atm-system/atc-centres-structure/</a></p>
+<dl>
+<dt>ЕС ОрВД</dt>
+<dd>Единая система организации воздушного движения РФ</dd>
+<dt>ГЦ</dt>
+<dd>Главный центр ЕС ОрВД</dd>
+<dt>ЗЦ</dt>
+<dd>Зональный центр ЕС ОрВД</dd>
+<dt>РГЦ</dt>
+<dd>Региональный центр ЕС ОрВД</dd>
+<dt>РЦ</dt>
+<dd>Районный центр ЕС ОрВД</dd>
+</dl>
+<p>Карта зональных центров (2021)</p>
+<p><img src="/_resources/278bdadf8d6f4feda35edb89a53bd7ea.png" /></p>
+<p>Карта районных центров (2021)
+<img src="/_resources/bd951cdf581043beb7493729bde625c1.png" /></p>
+<p>Карта филиалов ГК ОрВД (2021)
+<img src="/_resources/4990652b967e48cb80bf45a2196341a9.png" /></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Markdown]]></title>
+            <guid>cdfb68a69a9448f2bcdd49c3d93aecda</guid>
+            <pubDate>Mon, 04 Jan 2021 16:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<p><a title="https://joplinapp.org/markdown/" href="https://joplinapp.org/markdown/">https://joplinapp.org/markdown/</a></p>
+<nav class="table-of-contents"><ul><li><a href="#heading-1">Heading 1</a><ul><li><a href="#heading-2">Heading 2</a><ul><li><a href="#heading-3">Heading 3</a></li></ul></li></ul></li><li><a href="#tables">Tables</a></li><li><a href="#math-notation">Math notation</a></li><li><a href="#chemical-equations">Chemical equations</a></li><li><a href="#diagrams">Diagrams</a></li><li><a href="#checkboxes">Checkboxes</a></li><li><a href="#html-support">HTML support</a></li><li><a href="#plugins">Plugins</a><ul><li><a href="#soft-breaks">Soft breaks</a></li><li><a href="#typographer">Typographer</a></li><li><a href="#linkify">Linkify</a></li><li><a href="#katex">Katex</a></li><li><a href="#mark">Mark</a></li><li><a href="#footnote">Footnote</a></li><li><a href="#toc">TOC</a></li><li><a href="#sub">Sub</a></li><li><a href="#sup">Sup</a></li><li><a href="#deflist">Deflist</a></li><li><a href="#abbr">Abbr</a></li><li><a href="#emoji">Emoji</a></li><li><a href="#insert">Insert</a></li><li><a href="#multitable">Multitable</a></li><li><a href="#fountain">Fountain</a></li><li><a href="#mermaid">Mermaid</a></li></ul></li></ul></nav><h1 id="heading-1">Heading 1</h1>
+<h2 id="heading-2">Heading 2</h2>
+<h3 id="heading-3">Heading 3</h3>
+<p>This is some <strong>bold text</strong>
+This is some <em>italic text</em></p>
+<p>Blockquotes</p>
+<blockquote>
+<p>Kent.
+Where’s the king?</p>
+</blockquote>
+<p>List</p>
+<ul>
+<li>Milk</li>
+<li>Eggs
+<ul>
+<li>Desperados</li>
+<li>Heineken</li>
+</ul>
+</li>
+<li>Ham</li>
+</ul>
+<p>Ordered list</p>
+<ol>
+<li>Introduction</li>
+<li>Main topic
+<ol>
+<li>First sub-topic</li>
+<li>Second sub-topic</li>
+</ol>
+</li>
+<li>Conclusion</li>
+</ol>
+<p>Inline code
+This is <code>someJavaScript()</code></p>
+<p>Code block
+Here’s some Java Script code:</p>
+<div><pre class="hljs"><code><span class="hljs-keyword">function</span> <span class="hljs-title function_">hello</span><span class="hljs-params">()</span> {
+    alert(<span class="hljs-string">'hello'</span>);
+}</code></pre></div>
+<p>Language is normally auto-detected, but it can also be specified:</p>
+<div><pre class="hljs"><code><span class="hljs-keyword">SELECT</span> <span class="hljs-operator">*</span> <span class="hljs-keyword">FROM</span> users;
+<span class="hljs-keyword">DELETE</span> <span class="hljs-keyword">FROM</span> sessions;</code></pre></div>
+<p>Unformatted text
+Indent with a tab or 4 spaces for unformatted text.</p>
+<pre><code>This text will not be formatted:
+Robert'); DROP TABLE students;--
+</code></pre>
+<p>Link
+This is detected as a link:
+<a title="https://joplinapp.org" href="https://joplinapp.org">https://joplinapp.org</a></p>
+<p>And this is a link anchoring text content:</p>
+<p><a title="https://joplinapp.org" href="https://joplinapp.org">Joplin</a></p>
+<p>And this is a link with a title, anchoring text content:</p>
+<p><a title="Joplin project page" href="https://joplinapp.org">Joplin</a></p>
+<p>Images<br />
+<img src="https://git.io/JenGk" alt="Joplin icon" /></p>
+<p>Horisontal rule
+One rule:</p>
+<hr />
+<p>Another rule:</p>
+<hr />
+<p>Links to other notes</p>
+<p><a>Joplin setup</a></p>
+<h1 id="tables">Tables</h1>
+<table>
+<thead>
+<tr>
+<th>First Header</th>
+<th>Second Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+</tbody>
+</table>
+<p>Note that there must be at least 3 dashes separating each header cell</p>
+<p>Colons can be used to align columns:</p>
+<table>
+<thead>
+<tr>
+<th>Tables</th>
+<th style="text-align:center">Age</th>
+<th style="text-align:right">Cool</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>col 3 is</td>
+<td style="text-align:center">right-aligned</td>
+<td style="text-align:right">$1600</td>
+</tr>
+<tr>
+<td>col 2 is</td>
+<td style="text-align:center">centered</td>
+<td style="text-align:right">$12</td>
+</tr>
+</tbody>
+</table>
+<h1 id="math-notation">Math notation</h1>
+<div><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><msubsup><mo>∫</mo><mrow><mo>−</mo><mi mathvariant="normal">∞</mi></mrow><mi mathvariant="normal">∞</mi></msubsup><mover accent="true"><mi>f</mi><mo>^</mo></mover><mo stretchy="false">(</mo><mi>ξ</mi><mo stretchy="false">)</mo><mtext> </mtext><msup><mi>e</mi><mrow><mn>2</mn><mi>π</mi><mi>i</mi><mi>ξ</mi><mi>x</mi></mrow></msup></mrow><annotation encoding="application/x-tex">f(x) = \int_{-\infty}^\infty
+	\hat f(\xi)\,e^{2 \pi i \xi x}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em"></span><span class="mord mathnormal" style="margin-right:0.10764em">f</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2777777777777778em"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em"></span></span><span class="base"><span class="strut" style="height:2.384573em;vertical-align:-0.970281em"></span><span class="mop"><span class="mop op-symbol large-op" style="margin-right:0.44445em;position:relative;top:-0.0011249999999999316em">∫</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.414292em"><span style="top:-1.7880500000000001em;margin-left:-0.44445em;margin-right:0.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mtight">∞</span></span></span></span><span style="top:-3.8129000000000004em;margin-right:0.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">∞</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.970281em"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.16666666666666666em"></span><span class="mord accent"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9578799999999998em"><span style="top:-3em"><span class="pstrut" style="height:3em"></span><span class="mord mathnormal" style="margin-right:0.10764em">f</span></span><span style="top:-3.26344em"><span class="pstrut" style="height:3em"></span><span class="accent-body" style="left:-0.08332999999999999em"><span class="mord">^</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.19444em"><span></span></span></span></span></span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.04601em">ξ</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.16666666666666666em"></span><span class="mord"><span class="mord mathnormal">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8991079999999999em"><span style="top:-3.1130000000000004em;margin-right:0.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="mord mathnormal mtight">πi</span><span class="mord mathnormal mtight" style="margin-right:0.04601em">ξ</span><span class="mord mathnormal mtight">x</span></span></span></span></span></span></span></span></span></span></span></span></span></div>
+<h1 id="chemical-equations">Chemical equations</h1>
+<p><span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mrow><mi mathvariant="normal">C</mi><mi mathvariant="normal">O</mi></mrow><msub><mpadded width="0px"><mphantom><mi>X</mi></mphantom></mpadded><mpadded height="0px"><mn>2</mn></mpadded></msub><msup><mpadded width="0px"><mphantom><mi>X</mi></mphantom></mpadded><mo lspace="0em" rspace="0em">+</mo></msup><mi mathvariant="normal">C</mi><mover><mo stretchy="true" minsize="3.0em">→</mo><mpadded width="+0.6em" lspace="0.3em"><mrow></mrow></mpadded></mover><mn>2</mn><mtext> </mtext><mrow><mi mathvariant="normal">C</mi><mi mathvariant="normal">O</mi></mrow></mrow><annotation encoding="application/x-tex">\ce{CO2+C-&gt;2 CO}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.994561em;vertical-align:-0.15em"></span><span class="mord"><span class="mord"><span class="mord mathrm">CO</span></span><span class="mord"><span class="mord"><span class="mord rlap"><span class="inner"><span class="mord" style="color:transparent"><span class="mord mathnormal" style="margin-right:0.07847em;color:transparent">X</span></span></span><span class="fix"></span></span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:-0.15em"><span style="top:-2.5500000000000003em;margin-right:0.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0em"><span style="top:-2.7em"><span class="pstrut" style="height:2.7em"></span><span><span class="mord mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em"><span></span></span></span></span></span></span><span class="mord"><span class="mord"><span class="mord rlap"><span class="inner"><span class="mord" style="color:transparent"><span class="mord mathnormal" style="margin-right:0.07847em;color:transparent">X</span></span></span><span class="fix"></span></span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.844561em"><span style="top:-3.1362300000000003em;margin-right:0.05em"><span class="pstrut" style="height:2.7em"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">+</span></span></span></span></span></span></span></span></span><span class="mord mathrm">C</span><span class="mspace" style="margin-right:0.2777777777777778em"></span><span class="mrel x-arrow"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.622em"><span style="top:-3.144em"><span class="pstrut" style="height:2.5220000000000002em"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"></span></span></span><span class="svg-align" style="top:-2.511em"><span class="pstrut" style="height:2.5220000000000002em"></span><span class="hide-tail" style="height:0.522em;min-width:1.469em"><svg xmlns="http://www.w3.org/2000/svg" width="400em" height="0.522em" viewbox="0 0 400000 522" preserveaspectratio="xMaxYMin slice"><path d="M0 241v40h399891c-47.3 35.3-84 78-110 128
+-16.7 32-27.7 63.7-33 95 0 1.3-.2 2.7-.5 4-.3 1.3-.5 2.3-.5 3 0 7.3 6.7 11 20
+ 11 8 0 13.2-.8 15.5-2.5 2.3-1.7 4.2-5.5 5.5-11.5 2-13.3 5.7-27 11-41 14.7-44.7
+ 39-84.5 73-119.5s73.7-60.2 119-75.5c6-2 9-5.7 9-11s-3-9-9-11c-45.3-15.3-85
+-40.5-119-75.5s-58.3-74.8-73-119.5c-4.7-14-8.3-27.3-11-40-1.3-6.7-3.2-10.8-5.5
+-12.5-2.3-1.7-7.5-2.5-15.5-2.5-14 0-21 3.7-21 11 0 2 2 10.3 6 25 20.7 83.3 67
+ 151.7 139 205zm0 0v40h399900v-40z"></path></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.01100000000000001em"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.2777777777777778em"></span><span class="mord">2</span><span class="mspace" style="margin-right:0.16666666666666666em"></span><span class="mord"><span class="mord mathrm">CO</span></span></span></span></span></span></span></p>
+<h1 id="diagrams">Diagrams</h1>
+
+				<div>
+					
+					<pre class="mermaid">graph TD;
+    A--&gt;B;
+    A--&gt;C;
+    B--&gt;D;
+    C--&gt;D;
+</pre>
+				</div>
+			<h1 id="checkboxes">Checkboxes</h1>
+<ul>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-6" /><label id="cb-label-md-checkbox-6" for="md-checkbox-6" class="checkbox-label-unchecked">Milk</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-7" checked="checked" /><label id="cb-label-md-checkbox-7" for="md-checkbox-7" class="checkbox-label-checked">Rice</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-8" /><label id="cb-label-md-checkbox-8" for="md-checkbox-8" class="checkbox-label-unchecked">Eggs</label></div></li>
+</ul>
+<h1 id="html-support"><abbr title="Hyper Text Markup Language">HTML</abbr> support</h1>
+<p>This is <s class="jop-noMdConv">strikethrough text</s> mixed with regular <strong>Markdown</strong>.</p>
+<h1 id="plugins">Plugins</h1>
+<h2 id="soft-breaks">Soft breaks</h2>
+<p>This is line1
+This is line2</p>
+<p>This is a line with 2 trailing spaces<br />
+Next line</p>
+<h2 id="typographer">Typographer</h2>
+<p>©</p>
+<h2 id="linkify">Linkify</h2>
+<p><a title="https://example.com" href="https://example.com">https://example.com</a></p>
+<h2 id="katex">Katex</h2>
+<p>Math expressions</p>
+<h2 id="mark">Mark</h2>
+<p><mark>marked</mark></p>
+<h2 id="footnote">Footnote</h2>
+<p>Simples inline footnote <sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
+<h2 id="toc">TOC</h2>
+<nav class="table-of-contents"><ul><li><a href="#heading-1">Heading 1</a><ul><li><a href="#heading-2">Heading 2</a><ul><li><a href="#heading-3">Heading 3</a></li></ul></li></ul></li><li><a href="#tables">Tables</a></li><li><a href="#math-notation">Math notation</a></li><li><a href="#chemical-equations">Chemical equations</a></li><li><a href="#diagrams">Diagrams</a></li><li><a href="#checkboxes">Checkboxes</a></li><li><a href="#html-support">HTML support</a></li><li><a href="#plugins">Plugins</a><ul><li><a href="#soft-breaks">Soft breaks</a></li><li><a href="#typographer">Typographer</a></li><li><a href="#linkify">Linkify</a></li><li><a href="#katex">Katex</a></li><li><a href="#mark">Mark</a></li><li><a href="#footnote">Footnote</a></li><li><a href="#toc">TOC</a></li><li><a href="#sub">Sub</a></li><li><a href="#sup">Sup</a></li><li><a href="#deflist">Deflist</a></li><li><a href="#abbr">Abbr</a></li><li><a href="#emoji">Emoji</a></li><li><a href="#insert">Insert</a></li><li><a href="#multitable">Multitable</a></li><li><a href="#fountain">Fountain</a></li><li><a href="#mermaid">Mermaid</a></li></ul></li></ul></nav><h2 id="sub">Sub</h2>
+<p>X<sub>1</sub></p>
+<h2 id="sup">Sup</h2>
+<p>X<sup>2</sup></p>
+<h2 id="deflist">Deflist</h2>
+<dl>
+<dt>Term 1</dt>
+<dd>
+<p>Definition 1</p>
+</dd>
+<dt>Term 2 with <em>inline markup</em></dt>
+<dd>
+<p>Definition 2</p>
+<pre><code>  { some code, part of Definition 2 }
+</code></pre>
+<p>Third paragraph of definition 2.</p>
+</dd>
+</dl>
+<h2 id="abbr">Abbr</h2>
+<p>The <abbr title="Hyper Text Markup Language">HTML</abbr> specification</p>
+<h2 id="emoji">Emoji</h2>
+<p>😄</p>
+<h2 id="insert">Insert</h2>
+<p><ins>inserted</ins></p>
+<h2 id="multitable">Multitable</h2>
+<table>
+<caption id="prototypetable">Prototype table</caption>
+<thead>
+<tr>
+<th></th>
+<th style="text-align:center" colspan="2">Grouping</th>
+</tr>
+<tr>
+<th>First Header</th>
+<th style="text-align:center">Second Header</th>
+<th style="text-align:right">Third Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content</td>
+<td style="text-align:center" colspan="2"><em>Long Cell</em></td>
+</tr>
+<tr>
+<td>Content</td>
+<td style="text-align:center"><strong>Cell</strong></td>
+<td style="text-align:right">Cell</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td>New section</td>
+<td style="text-align:center">More</td>
+<td style="text-align:right">Data</td>
+</tr>
+<tr>
+<td>And more</td>
+<td style="text-align:center" colspan="2">With an escaped ‘|’</td>
+</tr>
+</tbody>
+</table>
+<p><a title="https://github.com/redbug312/markdown-it-multimd-table/blob/master/README.md" href="https://github.com/redbug312/markdown-it-multimd-table/blob/master/README.md">https://github.com/redbug312/markdown-it-multimd-table/blob/master/README.md</a></p>
+<h2 id="fountain">Fountain</h2>
+<div><pre class="hljs"><code><span class="hljs-function"><span class="hljs-title">Your</span></span> screenplay...</code></pre></div>
+<h2 id="mermaid">Mermaid</h2>
+<p><a title="https://mermaid-js.github.io/mermaid/#/" href="https://mermaid-js.github.io/mermaid/#/">https://mermaid-js.github.io/mermaid/#/</a><br />
+Diagrams</p>
+<hr class="footnotes-sep" />
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>I’m inline! <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
