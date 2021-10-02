@@ -4,9 +4,149 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 17:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 08:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[bufr]]></title>
+            <guid>8f0bde866bc34df7acf1f82d1bb8500b</guid>
+            <pubDate>Tue, 28 Sep 2021 06:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div><pre class="hljs"><code><span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">"name"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"IPRN40_UAAA_130500"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"adddate"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"2021-09-24T13:42:52Z"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"date"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"2021-07-13T04:58:00Z"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"folder"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"Bufr\\2021_09_24\\IPRN40_UAAA_130500_2021_09_24_134252"</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">"messages"</span><span class="hljs-punctuation">:</span>
+    <span class="hljs-punctuation">[</span>
+        <span class="hljs-punctuation">{</span>
+            <span class="hljs-attr">"date"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"2021-07-13T04:58:00Z"</span><span class="hljs-punctuation">,</span>
+            <span class="hljs-attr">"data"</span><span class="hljs-punctuation">:</span> 
+            <span class="hljs-punctuation">[</span>
+                <span class="hljs-punctuation">{</span>
+                    <span class="hljs-attr">"datatype"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"horizontalReflectivity"</span><span class="hljs-punctuation">,</span>
+                    <span class="hljs-attr">"forecasts"</span><span class="hljs-punctuation">:</span><span class="hljs-punctuation">[</span><span class="hljs-number">0</span><span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+                    <span class="hljs-attr">"images"</span><span class="hljs-punctuation">:</span> 
+                    <span class="hljs-punctuation">[</span>
+                        <span class="hljs-string">"Bufr\\2021_09_24\\IPRN40_UAAA_130500_2021_09_24_134252\\Images\\Message_0\\horizontalReflectivity \\0_00000_01000_0h.tif"</span>
+                    <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+                    <span class="hljs-attr">"palette"</span><span class="hljs-punctuation">:</span>
+                    <span class="hljs-punctuation">{</span>
+                        <span class="hljs-attr">"Default"</span><span class="hljs-punctuation">:</span>
+                        <span class="hljs-punctuation">{</span>
+                            <span class="hljs-attr">"MinDataValue"</span><span class="hljs-punctuation">:</span><span class="hljs-number">-1.7976931348623157E+308</span><span class="hljs-punctuation">,</span>
+                            <span class="hljs-attr">"MaxDataValue"</span><span class="hljs-punctuation">:</span><span class="hljs-number">1.7976931348623157E+308</span><span class="hljs-punctuation">,</span>
+                            <span class="hljs-attr">"HexColor"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"#00000000"</span><span class="hljs-punctuation">,</span>
+                            <span class="hljs-attr">"DisplayText"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"Default"</span>
+                        <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+                        <span class="hljs-attr">"Colors"</span><span class="hljs-punctuation">:</span>
+                        <span class="hljs-punctuation">[</span>
+                            <span class="hljs-punctuation">{</span>
+                                <span class="hljs-attr">"MinDataValue"</span><span class="hljs-punctuation">:</span><span class="hljs-number">-12.0</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"MaxDataValue"</span><span class="hljs-punctuation">:</span><span class="hljs-number">1.5999999999999996</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"HexColor"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"#FF99CCFF"</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"DisplayText"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"-12,0 - 1,6 dB"</span>
+                            <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+                            <span class="hljs-punctuation">{</span>
+                                <span class="hljs-attr">"MinDataValue"</span><span class="hljs-punctuation">:</span><span class="hljs-number">1.5999999999999996</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"MaxDataValue"</span><span class="hljs-punctuation">:</span><span class="hljs-number">15.2</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"HexColor"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"#FF0000CC"</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"DisplayText"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"1,6 - 15,2 dB"</span>
+                            <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+                            <span class="hljs-punctuation">{</span>
+                                <span class="hljs-attr">"MinDataValue"</span><span class="hljs-punctuation">:</span><span class="hljs-number">15.2</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"MaxDataValue"</span><span class="hljs-punctuation">:</span><span class="hljs-number">28.799999999999997</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"HexColor"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"#FF33CC33"</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"DisplayText"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"15,2 - 28,8 dB"</span>
+                            <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+                            <span class="hljs-punctuation">{</span>
+                                <span class="hljs-attr">"MinDataValue"</span><span class="hljs-punctuation">:</span><span class="hljs-number">28.799999999999997</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"MaxDataValue"</span><span class="hljs-punctuation">:</span><span class="hljs-number">42.4</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"HexColor"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"#FFFFFF33"</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"DisplayText"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"28,8 - 42,4 dB"</span>
+                            <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+                            <span class="hljs-punctuation">{</span>
+                                <span class="hljs-attr">"MinDataValue"</span><span class="hljs-punctuation">:</span><span class="hljs-number">42.4</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"MaxDataValue"</span><span class="hljs-punctuation">:</span><span class="hljs-number">56.0</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"HexColor"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"#FFFF3300"</span><span class="hljs-punctuation">,</span>
+                                <span class="hljs-attr">"DisplayText"</span><span class="hljs-punctuation">:</span><span class="hljs-string">"42,4 - 56,0 dB"</span>
+                            <span class="hljs-punctuation">}</span>
+                        <span class="hljs-punctuation">]</span> <span class="hljs-comment">// colors</span>
+                    <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span> <span class="hljs-comment">// palette</span>
+                    <span class="hljs-attr">"paletteforforecasts"</span><span class="hljs-punctuation">:</span><span class="hljs-keyword">null</span>
+                <span class="hljs-punctuation">}</span> <span class="hljs-comment">// data element</span>
+            <span class="hljs-punctuation">]</span> <span class="hljs-comment">// data</span>
+        <span class="hljs-punctuation">}</span>
+    <span class="hljs-punctuation">]</span> <span class="hljs-comment">// messages</span>
+<span class="hljs-punctuation">}</span></code></pre></div>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[test]]></title>
+            <guid>b30a161aa37d4fd18ae216c28ba98e47</guid>
+            <pubDate>Tue, 17 Aug 2021 14:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p><a type="application/pdf" href="/_resources/af8b889824084507b5a048bfe388b8ce.pdf">INVOICE_PAYMENT_469159474.pdf</a></p>
+<p><a href="/article/bufr">bufr</a></p>
+<p><a type="image/vnd.djvu" href="/_resources/789288457ba843d0b9be3458659e42c1.djvu">Коберн - Современные методы описания функциональных требований к системам.djvu</a></p>
+<table>
+<thead>
+<tr>
+<th>Наименование ИЭ</th>
+<th>Описание</th>
+<th>Всплывающая подсказка</th>
+<th>Тип ИЭ</th>
+<th>Тип данных</th>
+<th>Формат значения</th>
+<th>Длина</th>
+<th>Значение по умолчанию</th>
+<th>Возможные значения</th>
+<th>Обязательность значения (О/Н/У)</th>
+<th>Обязательность присутсвтия ИЭ на форме (О/У)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Струкрура ОрВД]]></title>
             <guid>fa509f2ef48e4ac1a1bc677c37e7047f</guid>
@@ -221,9 +361,9 @@ One rule:</p>
 				</div>
 			<h1 id="checkboxes">Checkboxes</h1>
 <ul>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-6" /><label id="cb-label-md-checkbox-6" for="md-checkbox-6" class="checkbox-label-unchecked">Milk</label></div></li>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-7" checked="checked" /><label id="cb-label-md-checkbox-7" for="md-checkbox-7" class="checkbox-label-checked">Rice</label></div></li>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-8" /><label id="cb-label-md-checkbox-8" for="md-checkbox-8" class="checkbox-label-unchecked">Eggs</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-12" /><label id="cb-label-md-checkbox-12" for="md-checkbox-12" class="checkbox-label-unchecked">Milk</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-13" checked="checked" /><label id="cb-label-md-checkbox-13" for="md-checkbox-13" class="checkbox-label-checked">Rice</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-14" /><label id="cb-label-md-checkbox-14" for="md-checkbox-14" class="checkbox-label-unchecked">Eggs</label></div></li>
 </ul>
 <h1 id="html-support"><abbr title="Hyper Text Markup Language">HTML</abbr> support</h1>
 <p>This is <s class="jop-noMdConv">strikethrough text</s> mixed with regular <strong>Markdown</strong>.</p>
