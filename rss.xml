@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 08:53:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 08:55:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -85,7 +85,7 @@
             <guid>b30a161aa37d4fd18ae216c28ba98e47</guid>
             <pubDate>Tue, 17 Aug 2021 14:25:01 GMT</pubDate>
             <content:encoded><![CDATA[<p><a type="application/pdf" href="/_resources/af8b889824084507b5a048bfe388b8ce.pdf">INVOICE_PAYMENT_469159474.pdf</a></p>
-<p><a href="/article/bufr">bufr</a></p>
+<p><a href="/test-article1/bufr">bufr</a></p>
 <p><a type="image/vnd.djvu" href="/_resources/789288457ba843d0b9be3458659e42c1.djvu">Коберн - Современные методы описания функциональных требований к системам.djvu</a></p>
 <table>
 <thead>
@@ -361,9 +361,9 @@ One rule:</p>
 				</div>
 			<h1 id="checkboxes">Checkboxes</h1>
 <ul>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-12" /><label id="cb-label-md-checkbox-12" for="md-checkbox-12" class="checkbox-label-unchecked">Milk</label></div></li>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-13" checked="checked" /><label id="cb-label-md-checkbox-13" for="md-checkbox-13" class="checkbox-label-checked">Rice</label></div></li>
-<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-14" /><label id="cb-label-md-checkbox-14" for="md-checkbox-14" class="checkbox-label-unchecked">Eggs</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-15" /><label id="cb-label-md-checkbox-15" for="md-checkbox-15" class="checkbox-label-unchecked">Milk</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-16" checked="checked" /><label id="cb-label-md-checkbox-16" for="md-checkbox-16" class="checkbox-label-checked">Rice</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-17" /><label id="cb-label-md-checkbox-17" for="md-checkbox-17" class="checkbox-label-unchecked">Eggs</label></div></li>
 </ul>
 <h1 id="html-support"><abbr title="Hyper Text Markup Language">HTML</abbr> support</h1>
 <p>This is <s class="jop-noMdConv">strikethrough text</s> mixed with regular <strong>Markdown</strong>.</p>
